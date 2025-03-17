@@ -5,3 +5,5 @@ Dodane
 dodane dodane
 nowa galaz
 comitchanges
+
+dodanenowagalaz
