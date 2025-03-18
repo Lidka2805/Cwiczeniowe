@@ -12,3 +12,4 @@ kdgfbjsghignore
 
 
 już niw ignoruj
+przestań ignorować
